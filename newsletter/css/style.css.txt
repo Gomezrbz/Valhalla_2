@@ -1,0 +1,13 @@
+body{
+	font-size: 14px;
+	background: #fff;
+}
+
+div#signup-form{
+	text-align:center;
+	width:400px;
+	margin: auto;
+	padding: 10px;
+	border : 1 px solid #e8e8e8;
+	
+} 
